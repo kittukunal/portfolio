@@ -257,7 +257,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/kittukunal/expense-track-frontend",
+    source_code_link: "https://github.com/kittukunal/expense-tracker",
     live_link: "https://expense-track-frontend-nine.vercel.app/"
   },
 ];
