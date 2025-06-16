@@ -63,7 +63,7 @@ const Hero = () => {
 
             {/* ✅ Paste your actual resume file link below */}
             <a
-              href="https://drive.google.com/file/d/1LPGh11EHLeq8aaUJLR1K0laOcuL71KOW/view?usp=sharing"
+              href="https://drive.google.com/file/d/1onY1GETdaSDTOHxrSslIm0J8n_zPFKP8/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="text-cyan-400 hover:underline flex items-center gap-2"
